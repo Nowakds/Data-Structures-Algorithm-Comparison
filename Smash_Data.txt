@@ -1,0 +1,86 @@
+Wii Fit Trainer,Wii Fit,50
+Meta Knight,Kirby's Adventure,31
+Ridley,Metroid,69
+Young Link,The Legend of Zelda,25
+Inkling,Splatoon,68
+Pyra & Mythra,Xenoblade Chronicles 2,84
+Mii Brawler,Super Smash Bros. for Wii U/3DS,54
+Pichu,Pokemon Gold and Silver,21
+Luigi,Mario Bros.,10
+Min Min,Arms,81
+Ken,Street Fighter,64
+Sephiroth,Final Fantasy VII,83
+Villager,Animal Crossing,48
+Kazuya,Tekken,85
+Lucario,Pokemon: Diamond and Pearl,44
+Joker,Persona 5,76
+Rosalina,Super Mario Galaxy,51
+Link,The Legend of Zelda,3
+Chrom,Fire Emblem Awakening,29
+Mii Swordfighter,Super Smash Bros. for Wii U/3DS,55
+Mii Gunner,Super Smash Bros. for Wii U/3DS,56
+ROB,Stack-Up,45
+Wolf,Star Fox 64,47
+Isabelle,Animal Crossing: New Leaf,73
+Shiek,The Legend of Zelda: Ocarina of Time,18
+Terry,Fatal Fury,79
+Lucas,Mother 3,40
+Little Mac,Mike Tyson's PunchOut!!,52
+Richter,Rondo of Blood,71
+Mr. Game&Watch,Ball,30
+Ryu,Street Fighter,63
+Hero,Dragon Quest,77
+Corrin,Fire Emblem Fates,66
+Pikachu,Pokemon Red and Blue,9
+Snake,Metal Gear,36
+Donkey Kong,Donkey Kong(1981),2
+Ness,Earthbound,11
+Pac-Man,Pac-Man,58
+Mewtwo,Pokemon: Red & Blue,27
+Kirby,Kirby's Dream Land,7
+Roy,Fire Emblem: The Binding Blade,28
+Falco,Star Fox,22
+Samus,Metroid,4
+Piranha Plant,Super Mario Bros.,75
+Zelda,The Legend of Zelda,19
+Incineroar,Pokemon: Sun and Moon,74
+Bowser,Mario Bros.,16
+Banjo & Kazooie,Banjo-Kazooie,78
+Sonic,Sonic the Hedgehog,41
+Shulk,Xenoblade Chronicles,60
+Zero Suit Samus,Metroid: Zero Mission,34
+Peach,Super Mario Bros.,14
+Pokemon Trainer,Pokemon: Red & Blue,38
+Bayonetta,Bayonetta,67
+Mega Man,Mega Man,49
+Cloud,Final Fantasy VII,65
+Wario,Super Mario Land 2,35
+Steve,Minecraft,82
+Olimar,Pikmin,43
+Dr. Mario,Dr. Mario,20
+King K Rool,Donkey Kong Country,72
+Greninja,Pokemon X and Y,53
+Fox,Star Fox,8
+Marth,Fire Emblem,23
+Bowser Jr.,Super Mario Sunshine,61
+Yoshi,Super Mario World,6
+Diddy Kong,Donkey Kong Country,39
+Duck Hunt,Duck Hunt,62
+Byleth,Fire Emblem: Three Houses,80
+Toon Link,The Legend of Zelda: The Wind Waker,46
+King Dedede,Kirby's Dream Land,42
+Sora,Kingdom of Hearts,86
+Robin,Fire Emblem: Awakening,59
+Ike,Fire Emblem: Path of Radiance,37
+Pit,Kid Icarus,32
+Daisy,Super Mario Land,15
+Captain Falcon,F-Zero,12
+Palutena,Kid Icarus,57
+Mario,Donkey Kong(1981),1
+Ice Climbers,Ice Climber,17
+Jigglypuff,Pokemon Red and Blue,13
+Dark Samus,Metroid Prime 2: Echoes,5
+Dark Pit,Kid Icarus Uprising,33
+Ganondorf,The Legend of Zelda,26
+Simon,Castlevania II: Simon's Quest,70
+Lucina,Fire Emblem,24
